@@ -1,10 +1,10 @@
-#####################################################################
-# Info: Delete all mail profiles and create a new empty one         #
-# Compatibility: From Outlook 2016 upwards                          #
-# Author: Martin Eberle                                             #
-# Version: v1.0, 26.03.2021                                         #
-# Source:                                                           # 
-#####################################################################
+###############################################################################
+# Info: Delete all mail profiles and create a new empty one                   #
+# Compatibility: From Outlook 2016 upwards                                    #
+# Author: Martin Eberle                                                       #
+# Version: v1.0, 26.03.2021                                                   #
+# Source: https://github.com/mistermert504/Delete-Outlook-Mail-Profile-v16up- #                                                          # 
+###############################################################################
 
 #Disable Outlook Save Mode
 Write-Output "Disable Outlook Save Mode"
